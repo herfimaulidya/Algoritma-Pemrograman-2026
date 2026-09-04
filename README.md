@@ -66,6 +66,9 @@ Implementasi program dibuat menggunakan bahasa pemrograman Python dan dijalankan
 
 Program telah berhasil diuji menggunakan dua test case yang telah ditentukan. Hasil pengujian menunjukkan bahwa program dapat menentukan kelolosan siswa berdasarkan nilai tes seleksi dengan benar.
 
+<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/e6261d31-f508-4677-baff-5eec470a5675" />
+
+
 ### **Test Case 1**
 
 **Input:**
